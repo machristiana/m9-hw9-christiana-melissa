@@ -1,7 +1,7 @@
 # Assignment 9 - Create an ES6 Class, Output and Object
 
 ## Issues
-I had issues figuring out how to highlight all of the boxes while only hovering over one at a time.
+I didn't have any issues.
 
 ## Resources
 No outside resources were used.
